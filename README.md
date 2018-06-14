@@ -1,2 +1,2 @@
 # rs-calendar
-Calendar for Rolling Scopes school
+Calendar for Rolling Scopes school!
